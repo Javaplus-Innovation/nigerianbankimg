@@ -1,0 +1,1 @@
+This repository contains the logos of major banks.
